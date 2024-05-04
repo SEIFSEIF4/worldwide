@@ -1,9 +1,9 @@
 # Worldwide
 
+![Demo](https://github.com/SEIFSEIF4/worldwide/blob/main/public/worldwide.png?raw=true)
+
 ## Description:
 This repository contains code for a web application called "Worldwide". The application aims to provide users with information about countries around the world, including details such as population, area, capital, languages spoken, and more. It utilizes data from various sources to present an informative overview of different countries.
-
-![Demo](https://github.com/SEIFSEIF4/worldwide/blob/main/public/worldwide.png?raw=true)
 
 ## Features:
 - View detailed information about countries.
