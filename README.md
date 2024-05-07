@@ -3,7 +3,7 @@
 ![Demo](https://github.com/SEIFSEIF4/worldwide/blob/main/public/worldwide.png?raw=true)
 
 ## Description:
-This repository contains code for a web application called "Worldwide". The application aims to provide users with information about countries around the world, including details such as population, area, capital, languages spoken, and more. It utilizes data from various sources to present an informative overview of different countries.
+The application is designed to help users mark places they have visited or intend to visit, allowing them to add notes along with the mark and date. With "World Wide Map," users can create a personalized map of their travel experiences and future destinations, enriching their journey with memories and plans.
 
 ## Features:
 - View detailed information about countries.
